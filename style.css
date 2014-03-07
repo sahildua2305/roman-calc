@@ -1,0 +1,12 @@
+body{background:#000000;color:#fff;font-family: 'Amaranth', sans-serif;}
+h2,h3{text-align:center;}
+h2{font-size:43px;}
+.container{margin:5% 20%;}
+
+form{margin:7% 2%;}
+input{padding:10px;border-radius:5px;-webkit-transition:0.2s ease;-ms-transition:0.2s ease;-o-transition:0.2s ease;-moz-transition:0.2s ease;font-size:20px;text-align:center;}
+input:hover{box-shadow:inset 0px 0px 5px #000000;-webkit-box-shadow:inset 0px 0px 5px #000000;-moz-box-shadow:inset 0px 0px 5px #000000;}
+
+input[type="submit"]{padding:10px 15px;border-radius:5px;text-align:center;cursor:pointer;margin:5% 44%;}
+
+input[name="answer"]{padding: 2% 35%;}
